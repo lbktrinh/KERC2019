@@ -1,0 +1,16 @@
+train,Angry,Angry_001,1,73
+train,Angry,Angry_002,1,73
+train,Disgust,Disgust_001,1,73
+train,Fear,Fear_001,1,121
+train,Happy,Happy_001,1,73
+train,Happy,Happy_002,1,73
+train,Neutral,Neutral_001,1,73
+train,Sad,Sad_001,1,73
+train,Surprise,Surprise_001,1,73
+val,Angry,Angry_185,1,73
+val,Disgust,Disgust_016,1,72
+val,Fear,Fear_064,1,73
+val,Happy,Happy_111,1,49
+val,Neutral,Neutral_036,1,61
+val,Sad,Sad_141,1,73
+val,Surprise,Surprise_093,1,73
